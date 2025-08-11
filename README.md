@@ -5,9 +5,7 @@
 [![NLTK](https://img.shields.io/badge/NLTK-3.8%2B-red.svg)](https://nltk.org/)
 [![Pandas](https://img.shields.io/badge/pandas-1.3%2B-yellow.svg)](https://pandas.pydata.org/)
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/4CAF50/FFFFFF?text=Amazon+Sentiment+Analysis" alt="Amazon Sentiment Analysis Banner">
-</p>
+
 
 ## 📋 Project Overview
 
